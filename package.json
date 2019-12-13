@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "systemjs": "~0.21.6",
-    "npm": "6.5.0",
+    "npm": "6.13.4",
     "npm-package-arg": "6.1.0",
     "minimatch": "3.0.4",
     "opener": "1.5.1",
